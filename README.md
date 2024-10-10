@@ -22,7 +22,7 @@ This project provides a Node.js script that automates video editing using FFmpeg
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ffmpeg-bulk-video-editor.git
+    git clone https://github.com/Imranmq/VidWorker.git
     cd ffmpeg-bulk-video-editor
     ```
 
